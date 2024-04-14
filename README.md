@@ -20,4 +20,4 @@ docker compose up -d
 http://app.localhost/ or http://localhost:8081/
 
 ## Backend API Url
-http://app.localhost/api/tasks or http://localhost:8082/
+http://app.localhost/api/tasks or http://localhost:8082/api/tasks
